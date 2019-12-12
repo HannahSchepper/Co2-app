@@ -1,0 +1,22 @@
+body
+{
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+
+}
+
+.calculator 
+{
+    border: 2px solid darkolivegreen;
+    background:beige;
+    width: 350px;
+}
+
+
+.mg-large {margin: 100px; }
+.mg-small {margin: 5px; }
+
+.pd-large { padding: 20px;}
+.pd-small { padding: 5px;}
+
